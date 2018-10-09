@@ -1,0 +1,25 @@
+{
+    "remotePath": "./www/mymatto.xwork.site/",
+    "host": "195.78.93.222",
+    "username": "asfalad",
+    "password": "3105200818a",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "\\node_modules"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
